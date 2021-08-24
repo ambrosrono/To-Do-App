@@ -1,2 +1,2 @@
 # To-Do-App
-To-Do App using Javascript 
+todo application with react, node.js, express and mongodb (MERN stack). 
